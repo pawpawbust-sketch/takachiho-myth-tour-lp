@@ -1,3 +1,3 @@
 // 申込み先URLはここだけを変更してください。空欄の間は申込みを送信しません。
 // 例: https://example.com/application （実際の申込みフォームのURLに置換）
-window.TOUR_CONFIG = { applicationUrl: "" };
+window.TOUR_CONFIG = { applicationUrl: "https://docs.google.com/forms/d/e/1FAIpQLScwnwvM5XEE8fhBTZBc78ZQdK0pl5Lcrd2q1Dp-GRIQ7NmznQ/viewform?usp=publish-editor" };
